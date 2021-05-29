@@ -4,7 +4,7 @@ Python QR Code Generator. Made in Python v3.7.9
 #### INSTALLATION
 
 ```console
-git clone https://github.com/MalwareMix/QRGen.git
+$ git clone https://github.com/MalwareMix/QRGen.git
 $ cd QRGen
 $ pip install numpy
 $ pip install qrcode
